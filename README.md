@@ -1,4 +1,6 @@
 # My TailwindCSS Website
+![page View](https://github.com/user-attachments/assets/ddd8d859-fd11-4547-92de-141bf511812b)
+![page_view](https://github.com/user-attachments/assets/b41a3fe6-ca3f-4ca2-a862-ea5816d9ae30)
 
 This project is a website built using TailwindCSS, based on the original [FlexStart](https://bootstrapmade.com/demo/FlexStart/) template, which was made with Bootstrap. The project demonstrates the customization and usage of TailwindCSS to create a responsive and modern design.
 
@@ -6,7 +8,6 @@ This project is a website built using TailwindCSS, based on the original [FlexSt
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
